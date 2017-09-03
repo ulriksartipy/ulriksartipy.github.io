@@ -28,9 +28,9 @@ Syntax highlighted code block
 ```
 
 
-[Selected publications] (https://ulriksartipy.github.io/cv_test)
+[Selected publications](https://ulriksartipy.github.io/cv_test)
 
-[Research_web] (https://ulriksartipy.rbind.io)
+[Research_web](https://ulriksartipy.rbind.io)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
