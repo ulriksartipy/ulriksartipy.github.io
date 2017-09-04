@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Bio
+
+Ulrik Sartipy is a cardiac surgeon at the Heart and Vascular Theme, Karolinska University Hospital and an associate professor (docent) at the [Department of Molecular Medicine and Surgery, Karolinska Institutet](http://ki.se/mmk). His research interests include heart disease and clinical epidemiology.
+
+
 
 You can use the [editor on GitHub](https://github.com/ulriksartipy/ulriksartipy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -26,19 +30,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+## More information
 
+- [Selected publications](https://ulriksartipy.github.io/cv_test)
 
-[Selected publications](https://ulriksartipy.github.io/cv_test)
-
-[Research_web](https://ulriksartipy.rbind.io)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ulriksartipy/ulriksartipy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Research_web](https://ulriksartipy.rbind.io)
