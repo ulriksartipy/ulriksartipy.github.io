@@ -4,7 +4,7 @@ Ulrik Sartipy is a cardiac surgeon at the Heart and Vascular Theme, [Karolinska 
 
 His research interests include heart disease and clinical epidemiology.
 
-More interesting stuff will be added....
+More interesting stuff will be added ....
 
 
 ## More information
