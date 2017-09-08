@@ -9,6 +9,6 @@ More interesting stuff will be added ....
 
 ## More information
 
-- [Selected publications](https://ulriksartipy.github.io/cv_test)
+- [Selected publications](https://ulriksartipy.github.io/selected_publ)
 
 - [Research_web](https://ulriksartipy.rbind.io) -- work in progress!!
