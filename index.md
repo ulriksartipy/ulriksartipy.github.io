@@ -13,4 +13,4 @@ More interesting stuff will be added ....
 
 - [Research_web](https://ulriksartipy.rbind.io) -- work in progress!!
 
-- [Publication list](publications/publication_list.md)
+- [Publication list](/publications/list.md)
