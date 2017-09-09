@@ -13,5 +13,4 @@ More interesting stuff will be added ....
 
 - [Research_web](https://ulriksartipy.rbind.io) -- work in progress!!
 
-- [HARTROCS](https://clinicaltrials.gov/show/NCT02276950)
-HeAlth-data Register sTudies of Risk and Outcomes in Cardiac Surgery
+
