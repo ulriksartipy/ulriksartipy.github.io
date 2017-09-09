@@ -1,4 +1,4 @@
-##List of publications (updated 2017-09-09)
+## List of publications (updated 2017-09-09)
 
 1.	**Sartipy U**, Dahlström U, Fu M, Lund LH. Atrial fibrillation in heart failure with preserved, mid-range, and reduced ejection fraction. JACC Heart Fail 2017;5:565-574 
 	doi: 10.1016/j.jchf.2017.05.001 
