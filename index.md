@@ -1,3 +1,7 @@
+
+![alt text](../pics/Ulrik_Sartipy_photo.jpg_ "Ulrik Sartipy Photo")
+
+
 ## Bio
 
 Ulrik Sartipy is a cardiac surgeon at the Heart and Vascular Theme, [Karolinska University Hospital](http://www.karolinska.se) and an associate professor (docent) at the Department of Molecular Medicine and Surgery, [Karolinska Institutet](http://www.ki.se), Stockholm, SWEDEN.
