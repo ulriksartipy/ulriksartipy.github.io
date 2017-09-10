@@ -1,5 +1,5 @@
 
-![alt text](../pics/Ulrik_Sartipy_photo.jpg "Ulrik Sartipy Photo")
+![alt text](../pics/Ulrik_Sartipy_photo.png "Ulrik Sartipy Photo")
 
 
 ## Bio
